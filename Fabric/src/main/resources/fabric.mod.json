@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "boggedspawn",
+  "version": "1.1",
+
+  "name": "Bogged Spawn",
+  "description": "Adds a chance for bogged to spawn naturally everywhere in place of a skeleton.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/bogged-spawn",
+    "sources": "https://github.com/Serilum/Bogged-Spawn",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Bogged%20Spawn"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.boggedspawn.ModFabric" ], "modmenu": [ "com.natamus.boggedspawn.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "java": ">=21",
+    "collective": ">=7.86"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://ricksouth.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " Cherriesaurus",
+	  " kate1073",
+	  " Michael W. S.",
+	  " Tyler Behl",
+	  " XAgent"
+  ]
+}
