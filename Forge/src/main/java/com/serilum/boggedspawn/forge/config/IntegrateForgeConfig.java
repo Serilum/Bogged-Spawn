@@ -1,7 +1,7 @@
-package com.natamus.boggedspawn.forge.config;
+package com.serilum.boggedspawn.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.boggedspawn.util.Reference;
+import com.serilum.boggedspawn.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
