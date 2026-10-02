@@ -1,7 +1,7 @@
-package com.natamus.boggedspawn.config;
+package com.serilum.boggedspawn.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.boggedspawn.util.Reference;
+import com.serilum.boggedspawn.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

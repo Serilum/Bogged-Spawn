@@ -1,7 +1,7 @@
-package com.natamus.boggedspawn;
+package com.serilum.boggedspawn;
 
 import com.natamus.collective.objects.SAMObject;
-import com.natamus.boggedspawn.config.ConfigHandler;
+import com.serilum.boggedspawn.config.ConfigHandler;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.item.Items;
 
