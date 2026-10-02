@@ -1,9 +1,9 @@
-package com.natamus.boggedspawn;
+package com.serilum.boggedspawn;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.boggedspawn.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.boggedspawn.util.Reference;
+import com.serilum.boggedspawn.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.boggedspawn.util.Reference;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;
 import net.neoforged.fml.common.Mod;
